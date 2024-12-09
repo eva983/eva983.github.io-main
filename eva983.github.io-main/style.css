@@ -245,7 +245,10 @@ h3 {
 .msg {
   filter: drop-shadow(0px 1px 7px black);
 }
-
+  .flex-start
+  {
+   justify-content: flex-start! important;
+  }
 /* 1st section */
 @keyframes blink {
   0% {
@@ -566,10 +569,7 @@ textarea {
   .mobile {
     display: block;
   }
-  .flex-start
-  {
-   justify-content: flex-start!important;
-  }
+
 
   .menu-icon {
     display: block;
