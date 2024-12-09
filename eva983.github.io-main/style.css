@@ -376,6 +376,7 @@ h3 {
   flex-direction: column;
   border-bottom-left-radius: 10px;
   border-top-left-radius: 10px;
+  justify-content:flex-start;
 }
 .right-r {
   width: 50%;
